@@ -7,6 +7,6 @@ Important codes used:
 
 -> Split data code to select the date more interesting for use
 
-Important links:
+Important links:  
 https://tslearn.readthedocs.io/en/latest/gen_modules/clustering/tslearn.clustering.TimeSeriesKMeans.html
 https://tslearn.readthedocs.io/en/latest/gen_modules/tslearn.metrics.html
